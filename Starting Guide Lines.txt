@@ -1,0 +1,7 @@
+npm install (install node)
+npm init (initialize the project)
+npm install --save-dev nodemon (Auto Restart Server and --save-dev to avoid send to live server)
+-- Unhealthy Nodemon Options Below --
+npm install nodemon -g (Auto Restart Server globally)
+-- Unhealthy Nodemon Options Below --
+npm install express (install express server)
