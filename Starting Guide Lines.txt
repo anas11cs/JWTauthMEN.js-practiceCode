@@ -4,8 +4,17 @@ npm install --save-dev nodemon (Auto Restart Server and --save-dev to avoid send
 -- Unhealthy Nodemon Option Below --
 npm install nodemon -g (Auto Restart Server globally)
 -- Unhealthy Nodemon Option above --
+-- To install express --
 npm install express (install express server)
 -- Install Mongodb(Mongoose) --
 npm install mongoose
 -- To Create Environment Variables(2 hide imp. things like db connection and passwords) --
 npm install dotenv
+-- To install bcrypt library --
+npm install node-gyp -g
+npm install bcrypt -g
+npm install bcrypt --save
+-- To install Joi for validation --
+npm install @hapi/joi
+-- Install webtokens --
+npm install jsonwebtoken
