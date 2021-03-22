@@ -1,7 +1,11 @@
 npm install (install node)
 npm init (initialize the project)
 npm install --save-dev nodemon (Auto Restart Server and --save-dev to avoid send to live server)
--- Unhealthy Nodemon Options Below --
+-- Unhealthy Nodemon Option Below --
 npm install nodemon -g (Auto Restart Server globally)
--- Unhealthy Nodemon Options Below --
+-- Unhealthy Nodemon Option above --
 npm install express (install express server)
+-- Install Mongodb(Mongoose) --
+npm install mongoose
+-- To Create Environment Variables(2 hide imp. things like db connection and passwords) --
+npm install dotenv
